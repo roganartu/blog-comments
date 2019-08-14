@@ -1,2 +1,2 @@
 # blog-comments
-Blog comments by https://github.com/utterance/utterances
+Blog comments for my blog https://www.tonylykke.com, powered by https://github.com/utterance/utterances
